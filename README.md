@@ -1,2 +1,3 @@
 # secondrepo
+yay
 second
